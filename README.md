@@ -7,5 +7,3 @@
 http://www.farzalivand.ir
 
 email: farzalivand@gmail.com
-
-Company: NarsinaSoft
